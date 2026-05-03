@@ -26,6 +26,7 @@ I am a B.Tech Computer Science student specializing in Artificial Intelligence. 
 - 🧠 Quiz App → https://github.com/harshit-raj01/quiz-app  
 - 📝 Registration Form → https://github.com/harshit-raj01/registration-form
 -  🌤 [Weather App](https://github.com/harshit-raj01/weather-app)
+-   🤖 [AI Resume Screening](https://github.com/harshit-raj01/ai-resume-screening)
 
 ---
 
