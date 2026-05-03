@@ -5,7 +5,7 @@ This repository contains my personal portfolio website built using HTML and CSS 
 ---
 
 ## 🌐 Live Website
-🔗 https://yourusername.github.io/portfolio/
+🔗 https://harshit-raj01.github.io/portfolio/
 
 ---
 
@@ -22,9 +22,9 @@ I am a B.Tech Computer Science student specializing in Artificial Intelligence. 
 ---
 
 ## 📂 Projects
-- 🔢 CGPA Calculator  
-- 🧠 Quiz App  
-- 📝 Registration Form  
+- 🔢 CGPA Calculator → https://github.com/harshit-raj01/cgpa-calculator  
+- 🧠 Quiz App → https://github.com/harshit-raj01/quiz-app  
+- 📝 Registration Form → https://github.com/harshit-raj01/registration-form  
 
 ---
 
