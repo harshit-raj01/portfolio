@@ -24,7 +24,8 @@ I am a B.Tech Computer Science student specializing in Artificial Intelligence. 
 ## 📂 Projects
 - 🔢 CGPA Calculator → https://github.com/harshit-raj01/cgpa-calculator  
 - 🧠 Quiz App → https://github.com/harshit-raj01/quiz-app  
-- 📝 Registration Form → https://github.com/harshit-raj01/registration-form  
+- 📝 Registration Form → https://github.com/harshit-raj01/registration-form
+-  🌤 [Weather App](https://github.com/harshit-raj01/weather-app)
 
 ---
 
